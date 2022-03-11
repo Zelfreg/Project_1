@@ -19,6 +19,7 @@
 
 
 ### Краткая информация о данных
+https://drive.google.com/file/d/1gz-fdsPMFy9VnGvXyT6NixfUZT7YERS_/view?usp=sharing  
 Имеем дата файл заключённый в формате CSV. Изначальный дата сет представляет собой таблицу размерностью (44744, 23)
   
 :arrow_up:[к оглавлению](.README.md#Оглавление)
