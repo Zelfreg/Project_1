@@ -6,7 +6,8 @@
 [3. Краткая информация о данных](.README.md#Краткая-информация-о-данных)  
 [4. Этапы работы над проектом](.README.md#Этапы-работы-над-проектом)  
 [5. Результат](.README.md#Результат)    
-[6. Выводы](.README.md#Выводы) 
+[6. Выводы](.README.md#Выводы)  
+[7. nbviewer.org вариант](.README.md#nbviewer.org)
 
 ### Описание проекта    
 Анализ резюме на hh.ru
@@ -64,3 +65,9 @@
 
 :arrow_up:[к оглавлению](.README.md#Оглавление)
 
+
+### nbviewer.org вариант
+https://nbviewer.org/github/Zelfreg/Project_1/blob/master/Project%201.ipynb
+
+
+:arrow_up:[к оглавлению](.README.md#Оглавление)
