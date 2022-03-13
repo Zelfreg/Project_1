@@ -1,13 +1,13 @@
 # Проект 1. Анализ резюме на hh.ru
 
 ## Оглавление  
-[1. Описание проекта](https://github.com/Zelfreg/Project_1/master/README.md#Описание-проекта)  
-[2. Какой кейс решаем?](https://github.com/Zelfreg/Project_1/master/README.md#Какой-кейс-решаем)  
-[3. Краткая информация о данных](https://github.com/Zelfreg/Project_1/master/README.md#Краткая-информация-о-данных)  
-[4. Этапы работы над проектом](https://github.com/Zelfreg/Project_1/master/README.md#Этапы-работы-над-проектом)  
-[5. Результат](https://github.com/Zelfreg/Project_1/master/README.md#Результат)    
-[6. Выводы](https://github.com/Zelfreg/Project_1/master/README.md#Выводы)  
-[7. nbviewer.org вариант](https://github.com/Zelfreg/Project_1/master/README.md#nbviewer.org)
+[1. Описание проекта](https://github.com/Zelfreg/Project_1/tree/master/README.md#Описание-проекта)  
+[2. Какой кейс решаем?](https://github.com/Zelfreg/Project_1/tree/master/README.md#Какой-кейс-решаем)  
+[3. Краткая информация о данных](https://github.com/Zelfreg/Project_1/tree/master/README.md#Краткая-информация-о-данных)  
+[4. Этапы работы над проектом](https://github.com/Zelfreg/Project_1/tree/master/README.md#Этапы-работы-над-проектом)  
+[5. Результат](https://github.com/Zelfreg/Project_1/master/tree/README.md#Результат)    
+[6. Выводы](https://github.com/Zelfreg/Project_1/master/tree/README.md#Выводы)  
+[7. nbviewer.org вариант](https://github.com/Zelfreg/Project_1/tree/master/README.md#nbviewer.org)
 
 ### Описание проекта    
 Анализ резюме на hh.ru
@@ -22,7 +22,7 @@
 ### Краткая информация о данных
 Исходный файл: https://drive.google.com/file/d/1gz-fdsPMFy9VnGvXyT6NixfUZT7YERS_/view?usp=sharing  
 Имеем дата файл представленный в формате CSV и занимающий 434Мб. Изначальный датасет - таблица размерностью 44744 записи в 12 признаках  
-:arrow_up:[к оглавлению](https://github.com/Zelfreg/Project_1/master/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Zelfreg/Project_1/tree/master/README.md#Оглавление)
 
 
 ### Этапы работы над проектом  
@@ -50,25 +50,25 @@
     - устраним дефекты(заменим недостающие значения).
 
 
-:arrow_up:[к оглавлению](https://github.com/Zelfreg/Project_1/master/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Zelfreg/Project_1/tree/master/README.md#Оглавление)
 
 
 ### Результаты  
 Финальный файл в формате CSV занимающий 13,5Мб содержит очищенный датасет 
 со следующей размерностью: 44482 записи и 23 признака.
 
-:arrow_up:[к оглавлению](https://github.com/Zelfreg/Project_1/master/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Zelfreg/Project_1/tree/master/README.md#Оглавление)
 
 
 ### Выводы  
 В целом в ходе EDA не было выявлено никаких особых тенденций. Рассмотренные нами признаки прямо коррелируют с медианой желаемой заработной зарплаты(более подробно см. выводы к графикам).
 
 
-:arrow_up:[к оглавлению](https://github.com/Zelfreg/Project_1/master/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Zelfreg/Project_1/tree/master/README.md#Оглавление)
 
 
 ### nbviewer.org вариант
 https://nbviewer.org/github/Zelfreg/Project_1/blob/master/Project%201.ipynb
 
 
-:arrow_up:[к оглавлению](https://github.com/Zelfreg/Project_1/master/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Zelfreg/Project_1/tree/master/README.md#Оглавление)
