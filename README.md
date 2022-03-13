@@ -68,7 +68,7 @@
 
 
 ### nbviewer.org вариант
-https://nbviewer.org/github/Zelfreg/Project_1/blob/master/Project%201.ipynb
+https://nbviewer.org/github/Zelfreg/Project_1/blob/main/Project%201.ipynb
 
 
 :arrow_up:[к оглавлению](https://github.com/Zelfreg/Project_1/tree/main/README.md#Оглавление)
