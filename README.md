@@ -1,13 +1,13 @@
 # Проект 1. Анализ резюме на hh.ru
 
 ## Оглавление  
-[1. Описание проекта](.README.md#Описание-проекта)  
-[2. Какой кейс решаем?](.README.md#Какой-кейс-решаем)  
-[3. Краткая информация о данных](.README.md#Краткая-информация-о-данных)  
-[4. Этапы работы над проектом](.README.md#Этапы-работы-над-проектом)  
-[5. Результат](.README.md#Результат)    
-[6. Выводы](.README.md#Выводы)  
-[7. nbviewer.org вариант](.README.md#nbviewer.org)
+[1. Описание проекта](https://github.com/Zelfreg/Project_1/edit/master/.README.md#Описание-проекта)  
+[2. Какой кейс решаем?](https://github.com/Zelfreg/Project_1/edit/master/.README.md#Какой-кейс-решаем)  
+[3. Краткая информация о данных](https://github.com/Zelfreg/Project_1/edit/master/.README.md#Краткая-информация-о-данных)  
+[4. Этапы работы над проектом](https://github.com/Zelfreg/Project_1/edit/master/.README.md#Этапы-работы-над-проектом)  
+[5. Результат](https://github.com/Zelfreg/Project_1/edit/master/.README.md#Результат)    
+[6. Выводы](https://github.com/Zelfreg/Project_1/edit/master/.README.md#Выводы)  
+[7. nbviewer.org вариант](https://github.com/Zelfreg/Project_1/edit/master/.README.md#nbviewer.org)
 
 ### Описание проекта    
 Анализ резюме на hh.ru
